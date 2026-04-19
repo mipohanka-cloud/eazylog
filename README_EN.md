@@ -23,7 +23,7 @@ Built for self-hosted server admins who don't want to scroll through thousands o
 
 ```bash
 pip install google-genai
-sudo curl -o /usr/local/bin/eazylog https://raw.githubusercontent.com/your-repo/eazylog/main/eazylog.py
+sudo curl -o /usr/local/bin/eazylog https://raw.githubusercontent.com/mipohanka-cloud/eazylog/refs/heads/main/eazylog.py
 sudo chmod +x /usr/local/bin/eazylog
 eazylog
 ```
